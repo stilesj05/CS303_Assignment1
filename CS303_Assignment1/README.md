@@ -20,13 +20,20 @@ https://github.com/user-attachments/assets/3def5cf4-5101-4afd-a4f5-c1c17aa68924 
 
 https://github.com/user-attachments/assets/bdc2bc78-a4b9-4a90-8a9e-d259aee364c6 --- invalid addition (like non-numerical character)
 
+
 Examples of navigating option 2:
+
 https://github.com/user-attachments/assets/27ca26a0-a34e-43a2-8cc8-ed45dc635ccf --- all cases
 
+
 Examples of navigating option 3:
+
 https://github.com/user-attachments/assets/d8635959-563a-47eb-bdc4-5a2fbff6ff27 --- all cases
 
+
 Examples of navigating option 4:
+
 https://github.com/user-attachments/assets/4581635e-e54e-4f08-b719-402e122db015 --- all cases
+
 
 When you choose 5, the program exits and quits running.
