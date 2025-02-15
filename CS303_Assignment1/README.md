@@ -13,8 +13,11 @@ You will be prompted different necessary inputs depending on what choice you mak
 (Find Integer) you will be asked to input the integer you want to find, and so forth.
 
 Examples of navigating option 1:
+
 https://github.com/user-attachments/assets/f01bd948-0320-4152-a0bb-b97246f463cd --- when array is at max capacity
+
 https://github.com/user-attachments/assets/3def5cf4-5101-4afd-a4f5-c1c17aa68924 --- valid addition to array
+
 https://github.com/user-attachments/assets/bdc2bc78-a4b9-4a90-8a9e-d259aee364c6 --- invalid addition (like non-numerical character)
 
 Examples of navigating option 2:
