@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/d8635959-563a-47eb-bdc4-5a2fbff6ff27 
 
 Examples of navigating option 4:
 
-https://github.com/user-attachments/assets/4581635e-e54e-4f08-b719-402e122db015 --- all cases
+https://github.com/user-attachments/assets/179a399f-3eaf-4e72-9c8d-54946caf6ee5 --- all cases
 
 
 When you choose 5, the program exits and quits running.
